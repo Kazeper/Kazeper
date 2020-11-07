@@ -1,4 +1,17 @@
-### Hi there 👋
+<div id="particles-js">
+  ### Hi there 👋
+</div>
+
+<script src="particles.js"></script>
+<script>
+    particlesJS.load('particles-js', 'assets/particles.json', function() {
+  console.log('callback - particles.js config loaded');
+});
+</script>
+
+
+
+
 
 <!--
 **Kazeper/Kazeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
