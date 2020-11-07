@@ -1,12 +1,6 @@
-<script src="particles.js"></script>
-<script>
-    particlesJS.load('particles-js', 'assets/particles.json', function() {
-  console.log('callback - particles.js config loaded');
-})
-</script>
-<div id="particles-js">
+
   ### Hi there 👋
-</div>
+
 
 
 
